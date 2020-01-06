@@ -1,5 +1,5 @@
 # Minumum Spanning Tree Algorithm Simulation
-### Spanning Tree Algorithm Simulation ( Prim's and Kruskal ) with WPF
+### Minimum Spanning Tree Algorithm Simulation ( Prim's and Kruskal ) with WPF
 
 * It generate random graph on the screen like this :
 <p align="left">
